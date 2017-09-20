@@ -1,2 +1,2 @@
-# piibelnet.github.io
-Piibel.NET Github Pages
+# piibliselts.github.io
+Estonian Bible Society Github Pages
